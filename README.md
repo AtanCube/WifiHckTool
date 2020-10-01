@@ -1,3 +1,10 @@
-Shell Script For Attacking Wireless Connections
-Using Built-In Kali Tools/Termux. Supports All Securities
-(WEP, WPS, WPA, WPA2)
+# Hack-Wifi
+WPA2 PSK No Root
+# Cara Pakai
+# $ pkg update && pkg upgrade
+# $ pkg install git
+# $ pkg install bash
+# $ git clone https://github.com/Makky2693/Hack-Wifi
+# $ cd Hack-Wifi
+# $ sh Wifi.sh
+#
